@@ -1,9 +1,18 @@
-<!-- # 🏄‍♂️ Hey Abhishek here!!-->
+<div align="center">
+  <img src="https://i.postimg.cc/SN4v5hD9/R.gif" alt="Animated GIF" />  
+  
+  <h href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=9000&size=30&duration=3002&pause=1000&random=false&width=435&lines=Helllooooooooooooooo!!!;It's+Abhishek+dropping+in!!!" alt="Typing SVG" /></h>
+</div>
 
-<h1 align="left"> 🏄‍♂️<img src="https://github.com/ishitaraina1807/ishitaraina1807/blob/main/Hi.gif?raw=true" width="30px" height="30px"> Hey Abhishek here!! </h1>
+
+
+
+<h1 align="left"> 🏄‍♂️<img src="https://github.com/ishitaraina1807/ishitaraina1807/blob/main/Hi.gif?raw=true" width="30px" height="30px"> Abhishek Jyotiba  </h1>
 [Engineer (Artificial Intelligence /Data Science/Trekking/cricket)]
 
 As a dedicated and forward-thinking student in my final year at Shah and Anchor Kutchhi Engineering College, I'm passionate about the transformative potential of Artificial Intelligence and Data Science. With a strong foundation in these cutting-edge fields, I am driven to explore innovative solutions that can shape the future.
+
+
 
 ### Connect with me 
 
@@ -23,18 +32,15 @@ As a dedicated and forward-thinking student in my final year at Shah and Anchor 
 <a href="mailto:abhishek.jyotiba16726@sakec.ac.in" target="_blank" rel="noopener noreferrer">
    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" style="width: 40px; height: 40px;">
 </a>
-
-
    </p>
 
 
 ### 🧰 Languages and Tools
-
 [![My Skills](https://skillicons.dev/icons?i=python,c,html,css,mysql,sklearn,docker,git,github,notion)](https://skillicons.dev)
-
 <br />
-
 #
+
+
 
 <p align="left"><b>Visitor's Count</b></p>
 <p align="left"><img src="https://profile-counter.glitch.me/abhijyotiba/count.svg" alt="visitor badge"/></p>
@@ -44,15 +50,9 @@ As a dedicated and forward-thinking student in my final year at Shah and Anchor 
 
 
 
+
+
 <!--### 📊 Stats
-
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhijyotiba&show_icons=true&theme=gruvbox)
-
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
-#
-<!--
-<details>
- <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
-   I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself iOS development with a dream to build my own app, but that soon got overshadowed by my desire to excel in Java. A desire that landed me a full-stack software engineering job upon graduation. However, I had another desire I had been pursuing throughout this time - YouTube content creation. I eventually ended up quitting my software engineering job to pursue YouTube full-time, and that has been my focus ever since. But there's something that's always bothered me about my journey - abandoning my dream of building my own app to pursue the safe route, a job. Now I've already taken the leap away from that safety net into this uncomfortable, unexplored world that it being a creator. And it worked out, but again, it became comfortable. It's easier to create a video than go out on a ledge and build my own product. I do have to eat, at the end of the day, but I think it's time. It's time to get uncomfortable again. I have a burning desire to get back on the horse, and fulfill that dream younger me had of building my own app, my own product. And in order to do that, I'll be implmementing a few measures to streamline my YouTube content to focus more time on fulfilling that dream - a dream that I'll be ready to tackle in 2023 due to the measure I'm putting in place now until the end of 2022. Don't wait up, because I'm coming.
--->
