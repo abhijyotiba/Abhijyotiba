@@ -1,12 +1,14 @@
-# 🏄‍♂️ Hey Abhishek here!!
+<!-- # 🏄‍♂️ Hey Abhishek here!!-->
 
-**`Engineer (Artificial Intelligence /Data Science/Trekking)`**
+<h1 align="left"> 🏄‍♂️<img src="https://github.com/ishitaraina1807/ishitaraina1807/blob/main/Hi.gif?raw=true" width="30px" height="30px"> Hey Abhishek here!! </h1>
+[Engineer (Artificial Intelligence /Data Science/Trekking/cricket)]
 
 As a dedicated and forward-thinking student in my final year at Shah and Anchor Kutchhi Engineering College, I'm passionate about the transformative potential of Artificial Intelligence and Data Science. With a strong foundation in these cutting-edge fields, I am driven to explore innovative solutions that can shape the future.
 
+### Connect with me 
+
    <p align="left">
-     
-  <a href="https://www.instagram.com/abhi_jyotiba" target="_blank" rel="noopener noreferrer">
+<a href="https://www.instagram.com/abhi_jyotiba" target="_blank" rel="noopener noreferrer">
    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" style="width: 40px; height: 40px;">
 </a>
 
@@ -25,7 +27,6 @@ As a dedicated and forward-thinking student in my final year at Shah and Anchor 
 
    </p>
 
----
 
 ### 🧰 Languages and Tools
 
@@ -35,9 +36,15 @@ As a dedicated and forward-thinking student in my final year at Shah and Anchor 
 
 #
 
+<p align="left"><b>Visitor's Count</b></p>
+<p align="left"><img src="https://profile-counter.glitch.me/abhijyotiba/count.svg" alt="visitor badge"/></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijyotiba&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
+<p align="left" ><img src="https://github-readme-stats.vercel.app/api?username=abhijyotiba&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
+<p align="left" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=abhijyotiba&theme=chartreuse-dark"></p>
 
 
-### 📊 Stats
+
+<!--### 📊 Stats
 
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhijyotiba&show_icons=true&theme=gruvbox)
 
