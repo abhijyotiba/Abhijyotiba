@@ -49,7 +49,18 @@ As a dedicated and forward-thinking student in my final year at Shah and Anchor 
 <p align="left" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=abhijyotiba&theme=chartreuse-dark"></p>
 
 
+<br/>
+<br/>
 
+
+<div align="center">
+    <p style="font-size:18px; color:#6d6d6d; font-family:Arial, sans-serif; margin-bottom:10px;">
+        Enjoy my work? Support me with a coffee! ☕
+    </p>
+    <a href='https://buymeacoffee.com/abhishekjyotiba' target='_blank'>
+        <img height='50' style='border:0px; height:50px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' alt='Buy Me a Coffee at ko-fi.com' />
+    </a>
+</div>
 
 
 <!--### 📊 Stats
