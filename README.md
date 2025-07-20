@@ -43,14 +43,15 @@ As a dedicated and forward-thinking student in my final year at Shah and Anchor 
 
 
 <p align="left"><b>Visitor's Count</b></p>
-<p align="left"><img src="https://profile-counter.glitch.me/abhijyotiba/count.svg" alt="visitor badge"/></p>
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijyotiba&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
-<p align="left" ><img src="https://github-readme-stats.vercel.app/api?username=abhijyotiba&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
-<p align="left" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=abhijyotiba&theme=chartreuse-dark"></p>
+
+| <img src="https://github-readme-stats.vercel.app/api?username=abhijyotiba&count_private=true&show_icons=true&theme=chartreuse-dark&include_all_commits=true" width="400"/> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhijyotiba&theme=chartreuse-dark" width="400"/> |
+|---|---|
+| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijyotiba&layout=compact&hide=TSQL&theme=chartreuse-dark" width="400"/> | <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhijyotiba&theme=midnight_purple" width="500"/> |
 
 
 <br/>
 <br/>
+
 
 
 <div align="center">
